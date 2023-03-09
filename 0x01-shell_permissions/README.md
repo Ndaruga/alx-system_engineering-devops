@@ -5,3 +5,4 @@ i am betty
 3-new_owner
 4-empty
 5-execute
+6-multiple_permissions
