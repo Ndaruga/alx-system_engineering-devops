@@ -15,3 +15,4 @@
 13-print_float
 13-print_float
 13-
+100-decimal_to_hexadecimal
